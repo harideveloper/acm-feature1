@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: acm-test-pod
-  namespace : feature-busybox
+  namespace : acm-busybox
 spec:
   containers:
     - command:
