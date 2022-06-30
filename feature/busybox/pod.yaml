@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: pods-simple-pod
-  namespace : test-ns1
+  namespace : feature-busybox
 spec:
   containers:
     - command:
