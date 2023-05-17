@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: acm-pod1
+  name: acm-test-pod1
   namespace : devacm
 spec:
   containers:
